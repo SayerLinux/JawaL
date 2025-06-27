@@ -1,0 +1,8 @@
+2025-06-27 20:37:47,631 - jawal - INFO -  „ ⁄—÷ ‘⁄«— «·»—‰«„Ã
+2025-06-27 20:37:47,669 - jawal - INFO - Ã«—Ì Ã„⁄ „⁄·Ê„«  «·„Êﬁ⁄: example.com
+2025-06-27 20:37:47,672 - jawal - ERROR - Œÿ√ ›Ì «·ÿ·»: example.com - Invalid URL 'example.com': No scheme supplied. Perhaps you meant https://example.com?
+2025-06-27 20:37:47,673 - jawal - INFO - Ã«—Ì  ÕœÌœ «· ﬁ‰Ì«  «·„” Œœ„… ›Ì «·„Êﬁ⁄: example.com
+2025-06-27 20:37:47,674 - jawal - ERROR - Œÿ√ ›Ì «·ÿ·»: example.com - Invalid URL 'example.com': No scheme supplied. Perhaps you meant https://example.com?
+2025-06-27 20:37:47,675 - jawal - INFO - Ã«—Ì ›Õ’ «·À€—«  «·√„‰Ì… ›Ì «·„Êﬁ⁄: example.com
+2025-06-27 20:37:47,677 - jawal - ERROR - Œÿ√ ›Ì «·ÿ·»: example.com - Invalid URL 'example.com': No scheme supplied. Perhaps you meant https://example.com?
+2025-06-27 20:37:47,678 - jawal - INFO - Ã«—Ì ›Õ’ «·„‰«›– «·„› ÊÕ… ··‰ÿ«ﬁ: example.com
