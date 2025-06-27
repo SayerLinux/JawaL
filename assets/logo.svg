@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <!-- خلفية دائرية -->
+  <circle cx="250" cy="250" r="240" fill="#1a1a2e" />
+  <circle cx="250" cy="250" r="220" fill="#16213e" stroke="#0f3460" stroke-width="2" />
+  
+  <!-- الحرف J -->
+  <path d="M150,120 Q150,120 150,140 L150,280 Q150,330 200,330 Q250,330 250,280 L250,250" 
+        fill="none" stroke="#e94560" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- الحرف W -->
+  <path d="M270,120 L300,280 L330,200 L360,280 L390,120" 
+        fill="none" stroke="#e94560" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- رمز الأمان -->
+  <path d="M250,350 L250,400 M220,375 L280,375" 
+        fill="none" stroke="#e94560" stroke-width="15" stroke-linecap="round" />
+  
+  <!-- دائرة خارجية متقطعة -->
+  <circle cx="250" cy="250" r="240" fill="none" stroke="#e94560" stroke-width="3" stroke-dasharray="10,10" />
+  
+  <!-- نص JawaL -->
+  <text x="250" y="450" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+        fill="#e94560" text-anchor="middle">JawaL</text>
+</svg>
