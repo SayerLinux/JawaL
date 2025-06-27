@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  jawal:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      - JAWAL_OUTPUT_DIR=/app/reports
+    # يمكن تجاوز الأمر الافتراضي هنا
+    # command: ["--phone", "+1234567890", "--output-format", "json"]
+    # للخدمات التي تتطلب منفذًا
+    # ports:
+    #   - "8000:8000"

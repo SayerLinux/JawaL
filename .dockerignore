@@ -1,0 +1,57 @@
+# ملفات Git
+.git
+.gitignore
+.github
+
+# بيئات Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# ملفات التوثيق
+docs/
+*.md
+!README.md
+
+# ملفات الاختبار
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ملفات IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ملفات Docker
+Dockerfile*
+docker-compose*
+
+# ملفات خاصة بـ JawaL
+reports/
+*.db
+*.log
