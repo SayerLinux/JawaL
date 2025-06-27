@@ -1,0 +1,26 @@
+# هذا ملف CODEOWNERS لتحديد المسؤولين عن مراجعة التغييرات في أجزاء مختلفة من الكود
+# تعرف على المزيد: https://help.github.com/articles/about-codeowners/
+
+# هؤلاء المالكون سيكونون المراجعين الافتراضيين لكل شيء في المستودع
+* @SaudiLinux
+
+# المالكون حسب الدليل/الملف
+
+# الملفات الرئيسية
+/*.py @SaudiLinux
+/setup.py @SaudiLinux
+/requirements.txt @SaudiLinux
+
+# وحدات الفحص
+/modules/ @SaudiLinux
+/modules/scanners/ @SaudiLinux
+
+# الاختبارات
+/tests/ @SaudiLinux
+
+# التوثيق
+/docs/ @SaudiLinux
+/*.md @SaudiLinux
+
+# سير عمل GitHub
+/.github/ @SaudiLinux
