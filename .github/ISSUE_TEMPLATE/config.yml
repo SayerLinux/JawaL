@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: أسئلة ودعم المجتمع
+    url: https://github.com/SaudiLinux/JawaL/discussions
+    about: يرجى طرح الأسئلة وطلب المساعدة هنا.
+  - name: الأسئلة الشائعة
+    url: https://github.com/SaudiLinux/JawaL/blob/main/docs/faq.md
+    about: تحقق من الأسئلة الشائعة قبل طرح سؤال جديد.
